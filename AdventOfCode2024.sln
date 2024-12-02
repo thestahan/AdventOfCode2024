@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35323.107
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_hystorian_hysteria", "1_hystorian_hysteria\1_hystorian_hysteria.csproj", "{E38597D9-DDF4-4F20-A74E-C147582F8902}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_red-nosed_reports", "2_red-nosed_reports\2_red-nosed_reports.csproj", "{E093609A-3409-473B-B9E3-C0FB1108FBB9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E38597D9-DDF4-4F20-A74E-C147582F8902}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E38597D9-DDF4-4F20-A74E-C147582F8902}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E38597D9-DDF4-4F20-A74E-C147582F8902}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E093609A-3409-473B-B9E3-C0FB1108FBB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E093609A-3409-473B-B9E3-C0FB1108FBB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E093609A-3409-473B-B9E3-C0FB1108FBB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E093609A-3409-473B-B9E3-C0FB1108FBB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
